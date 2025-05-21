@@ -230,7 +230,7 @@ class Main extends Component {
                                             <div class="card-body">
                                                 <h4 class="card-title">Linkedin Botu</h4>
                                                 <p class="card-text line-clamp5">
-                                                    <br/></p><button className="btn btn-primary text-center"><a className="detay" target="_blank" href="">Detaylar</a></button>
+                                                    <br/></p><button className="btn btn-primary text-center"><a className="detay" target="_blank" href="https://github.com/abdulkadir-dev0/Linkedin-Botu">Detaylar</a></button>
                                             </div>
                                         </div>
                                     </div>
@@ -238,9 +238,9 @@ class Main extends Component {
                                         <div class="card">
                                             <img class="card-img-top" src={Design3} alt="Title" />
                                             <div class="card-body">
-                                                <h4 class="card-title">Wallpaper Changer</h4>
+                                                <h4 class="card-title">Kişisel Portfolyo</h4>
                                                 <p class="card-text line-clamp5">
-                                                    <br/></p><button className="btn btn-primary text-center"><a className="detay" target="_blank" href="">Detaylar</a></button>
+                                                    <br/></p><button className="btn btn-primary text-center"><a className="detay" target="_blank" href="https://github.com/abdulkadir-dev0/kisisel-portfolyo">Detaylar</a></button>
                                             </div>
                                         </div>
                                     </div>
